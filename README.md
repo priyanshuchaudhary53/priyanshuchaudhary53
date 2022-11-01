@@ -1,6 +1,6 @@
 ## Hi, I'm Priyanshu Chaudhary!
 
-I'm freelance web developer.
+I'm a freelance web developer.
 
 ### Languages and Skills
 <img align='left' alt='WordPress' width='26' src='https://camo.githubusercontent.com/702655104afd65ad02c658dd178f2400bcea86ef7c4e6545562bceacf7856228/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667'>

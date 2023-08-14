@@ -6,7 +6,7 @@ Front-end wizard stepping into the realm of backend enchantment 👩‍💻
 
 ### Languages and Skills
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,wordpress,php,)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,tailwind,wordpress,php,)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchaudhary53&layout=compact&theme=dark&hide=hack)
 

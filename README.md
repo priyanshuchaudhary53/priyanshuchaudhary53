@@ -10,7 +10,7 @@ Front-end wizard stepping into the realm of backend enchantment 👩‍💻
 
 ![Top Langs](https://github-readme-stats-sigma-liart.vercel.app/api/top-langs/?username=priyanshuchaudhary53&layout=compact&theme=dark&hide=hack)
 
-<!---
-priyanshuchaudhary53/priyanshuchaudhary53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📑 Latest Blog Posts
+
+- [Implement dark mode in Nextjs 13 with Tailwind CSS](https://priyanshuchaudhary.hashnode.dev/implement-dark-mode-in-nextjs-13-with-tailwind-css)
+

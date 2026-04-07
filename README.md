@@ -1,14 +1,39 @@
-# Hi, I'm Priyanshu! 👋
+# Hey, I'm Priyanshu 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+Freelance WordPress developer from India. I build plugins and open-source tools — mostly things I wanted but couldn't find.
 
-### Languages and Skills
+---
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,tailwind,wordpress,php,laravel,go)](https://skillicons.dev)
+## What I'm working on
 
-![Top Langs](https://github-readme-stats-sigma-liart.vercel.app/api/top-langs/?username=priyanshuchaudhary53&layout=compact&theme=dark&hide=hack)
+- **WPFlowForms** — Conversational form builder for WordPress. Typeform-style, but self-hosted and yours. React drag-and-drop builder, Gutenberg block, Vanilla JS frontend. Free on wordpress.org.
+- **[Htmlwind](https://htmlwind.com)** — 225+ plain HTML + Tailwind components. Copy-paste. No build step. ([GitHub](https://github.com/priyanshuchaudhary53/htmlwind-components))
 
-## 📑 Latest Blog Posts
+---
 
-- [Implement dark mode in Nextjs 13 with Tailwind CSS](https://priyanshuchaudhary.hashnode.dev/implement-dark-mode-in-nextjs-13-with-tailwind-css)
+## Open source
 
+| Repo | What it is |
+|------|------------|
+| [htmlwind-components](https://github.com/priyanshuchaudhary53/htmlwind-components) | 225+ Tailwind UI components, plain HTML, zero JS required |
+| [naval-skills](https://github.com/priyanshuchaudhary53/naval-skills) | Claude Code skills plugin — 10 mental models from Naval Ravikant's Almanack |
+| [wp-flowforms](https://github.com/priyanshuchaudhary53/wp-flowforms) | Conversational WordPress form builder — coming to wordpress.org soon |
+
+---
+
+## Stack
+
+WordPress · WooCommerce · PHP · React · Tailwind CSS · ACF · JavaScript · Git
+
+---
+
+## Find me
+
+- 🌐 [priyanshuc.dev](https://priyanshuc.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshuchaudhary53/)
+- 🐦 [X / Twitter](https://x.com/priyanshuch53)
+- 🤖 [Reddit](https://www.reddit.com/user/Ambitious-Piglet-907/)
+
+---
+
+*If you're using something I made or want to collaborate — DM me.*

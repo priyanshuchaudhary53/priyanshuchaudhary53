@@ -4,7 +4,7 @@ Freelance WordPress developer from India. I build plugins and open-source tools 
 
 ## What I'm working on
 
-- **[FlowForms](https://flowforms.priyanshuc.dev/)** — Conversational form builder for WordPress. Typeform-style, but self-hosted and yours. React drag-and-drop builder, Gutenberg block, Vanilla JS frontend. Free on wordpress.org.
+- **[FlowForms](https://www.wpflowforms.com)** — Conversational form builder for WordPress. Typeform-style, but self-hosted and yours. React drag-and-drop builder, Gutenberg block, Vanilla JS frontend. Free on wordpress.org.
 - **[Htmlwind](https://htmlwind.com)** — 225+ plain HTML + Tailwind components. Copy-paste. No build step. ([GitHub](https://github.com/priyanshuchaudhary53/htmlwind-components))
 
 ## Open source
